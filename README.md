@@ -1,12 +1,13 @@
-# 中文文档翻译计划
+# 技术文档中文版
 
 ![](images/doczhcn-logo.png)  ![](images/translation.png)
 
-## 现有文档
+## 现有技术文档
 
 |  |  | 在线浏览 | 下载 |
 |--------|--------|--------|--------|
-|    ![](images/etcd.png)    |    [etcd](https://coreos.com/etcd/)    |    [etcd中文文档](https://etcd.doczh.cn/)    | [下载PDF](https://www.gitbook.com/download/pdf/book/doczhcn/etcd) / [下载Mobi](https://www.gitbook.com/download/mobi/book/doczhcn/etcd) / [下载Epub](https://www.gitbook.com/download/epub/book/doczhcn/etcd) |
+|    ![](images/etcd.png)    |    [etcd](https://coreos.com/etcd/)    |    [etcd官方文档中文版](https://etcd.doczh.cn/)    | [下载PDF](https://www.gitbook.com/download/pdf/book/doczhcn/etcd) / [下载Mobi](https://www.gitbook.com/download/mobi/book/doczhcn/etcd) / [下载Epub](https://www.gitbook.com/download/epub/book/doczhcn/etcd) |
+|    ![](images/linkerd.jpg)    |    [linkerd](https://linkerd.io/)    |    [linkerd官方文档中文版](https://linkerd.doczh.cn/)    | [下载PDF](https://www.gitbook.com/download/pdf/book/doczhcn/linkerd) / [下载Mobi](https://www.gitbook.com/download/mobi/book/doczhcn/linkerd) / [下载Epub](https://www.gitbook.com/download/epub/book/doczhcn/linkerd) |
 
 ## 相关链接
 
