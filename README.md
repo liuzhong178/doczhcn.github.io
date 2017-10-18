@@ -30,7 +30,7 @@
 [linkerd-pdf]: https://www.gitbook.com/download/pdf/book/doczhcn/linkerd
 [linkerd-mobi]: https://www.gitbook.com/download/mobi/book/doczhcn/linkerd
 [linkerd-epub]: https://www.gitbook.com/download/epub/book/doczhcn/linkerd
-[Istio官方文档中文版]: https://istio.doczh.cn/
+[Istio官方文档中文版]: http://istio.doczh.cn/
 [istio-pdf]: https://www.gitbook.com/download/pdf/book/doczhcn/istio
 [istio-mobi]: https://www.gitbook.com/download/mobi/book/doczhcn/istio
 [istio-epub]: https://www.gitbook.com/download/epub/book/doczhcn/istio
